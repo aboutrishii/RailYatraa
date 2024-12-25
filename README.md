@@ -19,7 +19,7 @@ W.H.O says that National Cancer Control programmes should not recommend mass scr
 Here is a screenshot of the project:
 
 ![HomePage](https://github.com/user-attachments/assets/72a5659b-9310-4f86-a51f-c6ddf436076c)
-![RailYatraaa](https://github.com/user-attachments/assets/013fcf12-846e-441e-a532-90efd5da8f8e)
+![TrainTrain](https://github.com/user-attachments/assets/ef108930-d58c-474d-8ad9-6e8467c4eb0e)
 ![FoodOrder](https://github.com/user-attachments/assets/6e4bcc39-e427-416f-b722-bba3f5eac7c1)
 ![bookTrain](https://github.com/user-attachments/assets/c2ca7965-14e7-45ee-88fe-77b17912f85d)
 ![Disha](https://github.com/user-attachments/assets/679244bb-ee5f-44ab-8fcd-3918a18036e2)
